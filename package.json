@@ -1,0 +1,21 @@
+{
+  "name": "magic-algo-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx parcel serve ./index.html",
+    "build": "npx parcel build ./index.html"
+  },
+  "author": "Standaa",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@magic-ext/algorand": "^0.2.0",
+    "algosdk": "^1.12.0",
+    "magic-sdk": "^6.2.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
