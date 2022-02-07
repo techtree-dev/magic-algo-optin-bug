@@ -11,9 +11,9 @@
   "author": "Standaa",
   "license": "UNLICENSED",
   "dependencies": {
-    "@magic-ext/algorand": "^0.2.0",
-    "algosdk": "^1.12.0",
-    "magic-sdk": "^6.2.1"
+    "@magic-ext/algorand": "^3.0.1",
+    "algosdk": "^1.13.1",
+    "magic-sdk": "^8.0.1"
   },
   "devDependencies": {
     "parcel": "^2.0.1"
